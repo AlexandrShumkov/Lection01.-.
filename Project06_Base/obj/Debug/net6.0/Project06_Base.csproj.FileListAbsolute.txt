@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\Project06_Base.exe
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\Project06_Base.deps.json
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\Project06_Base.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\Project06_Base.dll
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\ref\Project06_Base.dll
+C:\Users\user\Desktop\Projects\Project06_Base\bin\Debug\net6.0\Project06_Base.pdb
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.GlobalUsings.g.cs
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.dll
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\ref\Project06_Base.dll
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.pdb
+C:\Users\user\Desktop\Projects\Project06_Base\obj\Debug\net6.0\Project06_Base.genruntimeconfig.cache
