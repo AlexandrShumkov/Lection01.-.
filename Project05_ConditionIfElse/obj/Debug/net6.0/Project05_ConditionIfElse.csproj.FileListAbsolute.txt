@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.GlobalUsings.g.cs
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\Project05_ConditionIfElse.exe
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\Project05_ConditionIfElse.deps.json
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\Project05_ConditionIfElse.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\Project05_ConditionIfElse.dll
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\ref\Project05_ConditionIfElse.dll
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\bin\Debug\net6.0\Project05_ConditionIfElse.pdb
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.dll
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\ref\Project05_ConditionIfElse.dll
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.pdb
+C:\Users\user\Desktop\Projects\Project05_ConditionIfElse\obj\Debug\net6.0\Project05_ConditionIfElse.genruntimeconfig.cache
